@@ -7,6 +7,7 @@ import KeyboardArrowUpOutlinedIcon from "@mui/icons-material/KeyboardArrowUpOutl
 
 
 //Added feature
+//Added 2nd feature
 const Featured = () => {
   return (
     <div className="featured">
