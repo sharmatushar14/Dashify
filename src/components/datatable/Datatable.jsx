@@ -16,6 +16,7 @@ const Datatable = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
+    // This is for realtime change in browser without refreshing the website
     // const fetchData = async () => {
     //   let list = [];
     //   try {
