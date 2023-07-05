@@ -5,6 +5,8 @@ import "react-circular-progressbar/dist/styles.css";
 import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
 import KeyboardArrowUpOutlinedIcon from "@mui/icons-material/KeyboardArrowUpOutlined";
 
+
+//Added feature
 const Featured = () => {
   return (
     <div className="featured">
