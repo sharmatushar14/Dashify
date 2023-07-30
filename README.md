@@ -1,12 +1,9 @@
 # Dashify-Next-Gen Admin Panel
 
-![Admin Panel Logo](link-to-logo.png)
-
 Welcome to the Next-Gen Admin Panel, a cutting-edge web application built using React, Redux, and Firebase. This intuitive and powerful admin panel empowers companies to manage their data efficiently and generate insightful reports that drive informed decision-making.
 
 <img width="1439" alt="Screenshot 2023-07-30 at 10 29 19 PM" src="https://github.com/sharmatushar14/Dashify/assets/74085254/2f59c1ab-5cef-42a1-9641-d3bc1781eb36">
-<img width="1439" alt="Screenshot 2023-07-30 at 10 29 19 PM" src="https://github.com/sharmatushar14/Dashify/assets/74085254/13265fad-2270-45fd-b99d-0113f175077c">
-
+<img width="1440" alt="Screenshot 2023-07-30 at 10 29 31 PM" src="https://github.com/sharmatushar14/Dashify/assets/74085254/8e1291d2-9f4c-4b96-9555-b661807b4231">
 
 ## Table of Contents
 
